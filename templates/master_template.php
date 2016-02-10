@@ -12,7 +12,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/components/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+    <link href="//cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <style>
         body {
@@ -27,7 +27,7 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"> </script>
 </head>
 
 <body>
@@ -70,5 +70,6 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="vendor/components/jquery/jquery.min.js"></script>
 <script src="vendor/components/bootstrap/js/bootstrap.min.js"></script>
+<script src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
 </body>
 </html>
